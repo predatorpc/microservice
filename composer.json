@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/twig-bundle": "^4.1",
+        "symfony/templating": "^4.1"
+    }
+}
